@@ -1,0 +1,9 @@
+D:\Projects\PlaintextToHash\PlaintextToHash\bin\Debug\PlaintextToHash.exe.config
+D:\Projects\PlaintextToHash\PlaintextToHash\bin\Debug\PlaintextToHash.exe
+D:\Projects\PlaintextToHash\PlaintextToHash\bin\Debug\PlaintextToHash.pdb
+D:\Projects\PlaintextToHash\PlaintextToHash\obj\Debug\PlaintextToHash.csprojAssemblyReference.cache
+D:\Projects\PlaintextToHash\PlaintextToHash\obj\Debug\PlaintextToHash.Form1.resources
+D:\Projects\PlaintextToHash\PlaintextToHash\obj\Debug\PlaintextToHash.Properties.Resources.resources
+D:\Projects\PlaintextToHash\PlaintextToHash\obj\Debug\PlaintextToHash.csproj.GenerateResource.cache
+D:\Projects\PlaintextToHash\PlaintextToHash\obj\Debug\PlaintextToHash.exe
+D:\Projects\PlaintextToHash\PlaintextToHash\obj\Debug\PlaintextToHash.pdb
